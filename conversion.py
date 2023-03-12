@@ -10,7 +10,7 @@ print(type(z))
 print(answer)
 
 #convert
-print(x+int(z)) #result 20=x+z
+print(x+int(z)) #result 30=x+z
 print(str(x)+z) #result x+z= 1020
 print(int(y))   #result = 3
 
